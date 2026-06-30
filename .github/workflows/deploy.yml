@@ -9,7 +9,7 @@ env:
   AWS_REGION: ap-northeast-1
   ECR_REPOSITORY: my-flask-app
   ECS_SERVICE: my-flask-task-ec2-service-40y725ss
-  ECS_CLUSTER: my-flask-cluster
+  ECS_CLUSTER: flask-cluster
   CONTAINER_NAME: my-flask-container
   TASK_DEFINITION_FILE: task-definition.json
 
