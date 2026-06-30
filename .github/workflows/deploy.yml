@@ -10,7 +10,7 @@ env:
   ECR_REPOSITORY: my-flask-app
   ECS_SERVICE: my-flask-task-ec2-service-40y725ss
   ECS_CLUSTER: my-flask-cluster
-  CONTAINER_NAME: my-flask-app
+  CONTAINER_NAME: my-flask-container
   TASK_DEFINITION_FILE: task-definition.json
 
 jobs:
