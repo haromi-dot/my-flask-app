@@ -90,6 +90,5 @@
     "memory": "1024",
     "registeredAt": "2026-06-30T05:58:47.772Z",
     "registeredBy": "arn:aws:iam::692807410730:user/hr.choi",
-    "enableFaultInjection": false,
     "tags": []
 }
